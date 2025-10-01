@@ -1,3 +1,3 @@
-to start venv use { source venv/bin/activate }
+to start venv use { source .venv/bin/activate }
 to end venv use { deactivate }
 
